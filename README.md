@@ -1,2 +1,2 @@
-# 15_Chenkang_PA2_V1
-PA2v1
+I learned how to create repositories, create sub-branches and update Readme(s).
+Updated by: Chenkang
